@@ -1,0 +1,13 @@
+# Non-index folders
+target/
+.settings/
+.mvn/
+misCanciones/
+orb.db/
+
+# Non-index files
+archivoSalida.txt
+*.mp3
+.project
+.classpath
+nb-configuration.xml
